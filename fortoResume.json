@@ -40,8 +40,8 @@
           "name": "Git",
           "number_of_years": 3
         },
-	{
-          "name": “Perforce”,
+	      {
+          "name": "Perforce",
           "number_of_years": 2
         }
       ]
@@ -123,7 +123,7 @@
           "role": "VoLTE Engineer",
           "startDate": "2014",
           "endDate": "2016",
-          "technologies": "Android, Java, SIP, IMS, QXDM, WireShark“
+          "technologies": "Android, Java, SIP, IMS, QXDM, WireShark"
         },
         {
           "name": "Samsung Cloud Printer (SCP)",
