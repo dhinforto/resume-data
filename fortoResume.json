@@ -33,51 +33,16 @@
         }
       ]
     },
-    
-    {
-      "category": "Development Frameworks",
-      "technologies": [
-        {
-          "name": "Laravel",
-          "number_of_years": 3
-        },
-        {
-          "name": "Lumen",
-          "number_of_years": 2
-        },
-        {
-          "name": "Silex",
-          "number_of_years": 2
-        },
-        {
-          "name": "Yii",
-          "number_of_years": 2
-        },
-        {
-          "name": "Django",
-          "number_of_years": 1
-        }
-      ]
-    },
-    {
-      "category": "Databases",
-      "technologies": [
-        {
-          "name": "MySql",
-          "number_of_years": 7
-        },
-        {
-          "name": "PostgreSQL",
-          "number_of_years": 1
-        }
-      ]
-    },
     {
       "category": "Version Control",
       "technologies": [
         {
           "name": "Git",
-          "number_of_years": 4
+          "number_of_years": 3
+        },
+	{
+          "name": “Perforce”,
+          "number_of_years": 2
         }
       ]
     },
@@ -154,11 +119,11 @@
         },
         {
           "name": "Voice Over LTE",
-          "description": "Voice over LTE setup for AU TelCos (Telstra, Optus, Vodafone), pioneer engineer who works with different RnDs around the globe to improve the new technology",
+          "description": "Voice over LTE setup for AU and NZ TelCos (Telstra, Optus, Vodafone, Spark), pioneer engineer who works with different RnDs around the globe to improve the new technology",
           "role": "VoLTE Engineer",
           "startDate": "2014",
           "endDate": "2016",
-          "technologies": "Android, Java, SIP, IMS, QXDM"
+          "technologies": "Android, Java, SIP, IMS, QXDM, WireShark“
         },
         {
           "name": "Samsung Cloud Printer (SCP)",
