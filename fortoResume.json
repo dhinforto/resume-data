@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Geraldine Forto",
+    "label": "iOS Developer",
+    "picture": "https://media.licdn.com/media/p/8/005/095/163/37256de.jpg",
+    "email": "geraldine.forto@flightdigitalmedia.com",
+    "phone": "+639176759582"
+  },
+  "education": [
+    {
+      "institution": "Mapua Institute of Technology",
+      "course": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007",
+      "endDate": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies": [
+        {
+          "name": "Objective-C",
+          "number_of_years": 2
+        },
+        {
+          "name": "Swift",
+          "number_of_years": 2
+        },
+        {
+          "name": "Java",
+          "number_of_years": 2
+        }
+      ]
+    },
+    
+    {
+      "category": "Development Frameworks",
+      "technologies": [
+        {
+          "name": "Laravel",
+          "number_of_years": 3
+        },
+        {
+          "name": "Lumen",
+          "number_of_years": 2
+        },
+        {
+          "name": "Silex",
+          "number_of_years": 2
+        },
+        {
+          "name": "Yii",
+          "number_of_years": 2
+        },
+        {
+          "name": "Django",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Databases",
+      "technologies": [
+        {
+          "name": "MySql",
+          "number_of_years": 7
+        },
+        {
+          "name": "PostgreSQL",
+          "number_of_years": 1
+        }
+      ]
+    },
+    {
+      "category": "Version Control",
+      "technologies": [
+        {
+          "name": "Git",
+          "number_of_years": 4
+        }
+      ]
+    },
+    {
+      "category": "Operating System",
+      "technologies": [
+        {
+          "name": "Windows",
+          "number_of_years": 4
+        },
+        {
+          "name": "MacOS",
+          "number_of_years": 3
+        }
+      ]
+    },
+    
+    {
+      "category": "Integrated Development Environment",
+      "technologies": [
+        {
+          "name": "Eclipse",
+          "number_of_years": 2
+        },
+        {
+          "name": "XCode",
+          "number_of_years": 3
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Flight Digital Media",
+      "position": "iOS Developer",
+      "startDate": "July 2016",
+      "endDate": "Present",
+      "summary": "Engineering mobile applications that provide unique user experiences and leverage the unique features of each platform whether it is for iOS, Android or Web. Worked with established corporations as well as start ups who wish to establish and expand development teams.",
+      "highlights": [],
+      "projects": [
+        {
+          "name": "Wedding Spot",
+          "description": "Wedding Spot mobile is an application that allows you to search, price, and compare wedding venues. Working directly with venues, Wedding Spot gathers all the information required to enable you to easily search for venues based on budget, location, style, and guest count.",
+          "role": "iOS Developer",
+          "startDate": "2016",
+          "endDate": "present",
+          "technologies": "iOS, Objective-C"
+        },
+        {
+          "name": "Zukii",
+          "description": "Zukii application aims to help small-medium entrepreneurs  in starting their businesses as well as giving rewards to loyal customers who purchase and endorse existing shops and/or products through social networking sites. Moreover it is an e-commerce application that provides ensured delivery that puts the customer’s concerns as top priority.",
+          "role": "iOS Developer",
+          "startDate": "2016",
+          "endDate": "present",
+          "technologies": "iOS, Swift"
+        }
+      ]
+    },
+    {
+      "company": "Samsung R&D Institute of the Philippines",
+      "position": "Mobile Developer, VoLTE Engineer",
+      "startDate": "May 2013",
+      "endDate": "June 2016",
+      "summary": "Android developer/debugger for Multimedia applications, VoLTE Engineer for Australia TelCos (Telstra, Optus, Vodafone), iOS Developer for Printing Solutions and patent innovator",
+      "highlights": [],
+      "projects": [
+        {
+          "name": "Multimedia Applications and Framework",
+          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
+          "role": "Android Developer/Debugger",
+          "startDate": "2013",
+          "endDate": "2015",
+          "technologies": "Android, Java, C, C++"
+        },
+        {
+          "name": "Voice Over LTE",
+          "description": "Voice over LTE setup for AU TelCos (Telstra, Optus, Vodafone), pioneer engineer who works with different RnDs around the globe to improve the new technology",
+          "role": "VoLTE Engineer",
+          "startDate": "2014",
+          "endDate": "2016",
+          "technologies": "Android, Java, SIP, IMS, QXDM"
+        },
+        {
+          "name": "Samsung Cloud Printer (SCP)",
+          "description": "SCP is a mobile application that allows its users to print anytime and anywhere as long as the printer is registered to the cloud. You can also share a printer to your contact list for them to use and send you a document if needed.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Mobile Print (MP)",
+          "description": "MP is a mobile application that allows its users to print documents using printers connected to same network as the device. It also has the ability to perform scanning and an online ordering of ink depending on the printer you wish to use.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Samsung Printer Diagnostic System (SPDS)",
+          "description": "SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "iOS, Swift, REST"
+        },
+        {
+          "name": "Audio Only Mode for Video Playback",
+          "description": "Filed local and international patent for Signal Processing with Operating State-Dependent Handling of Multimedia Attributes",
+          "role": "Lead Innovator",
+          "startDate": "2015",
+          "endDate": "2016",
+          "technologies": "Android, Java"
+        }
+      ]
+    }
+  ],
+  "certification": []
+}
