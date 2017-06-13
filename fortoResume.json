@@ -76,12 +76,6 @@
   ],
   "work": [
     {
-      "company": "Flight Digital Media",
-      "position": "iOS Developer",
-      "startDate": "July 2016",
-      "endDate": "Present",
-      "summary": "Engineering mobile applications that provide unique user experiences and leverage the unique features of each platform whether it is for iOS, Android or Web. Worked with established corporations as well as start ups who wish to establish and expand development teams.",
-      "highlights": [],
       "projects": [
         {
           "name": "Wedding Spot",
@@ -98,18 +92,8 @@
           "startDate": "2016",
           "endDate": "present",
           "technologies": "iOS, Swift"
-        }
-      ]
-    },
-    {
-      "company": "Samsung R&D Institute of the Philippines",
-      "position": "Mobile Developer, VoLTE Engineer",
-      "startDate": "May 2013",
-      "endDate": "June 2016",
-      "summary": "Android developer/debugger for Multimedia applications, VoLTE Engineer for Australia TelCos (Telstra, Optus, Vodafone), iOS Developer for Printing Solutions and patent innovator",
-      "highlights": [],
-      "projects": [
-        {
+        },
+	{
           "name": "Multimedia Applications and Framework",
           "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
           "role": "Android Developer/Debugger",
