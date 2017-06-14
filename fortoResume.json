@@ -26,50 +26,6 @@
         {
           "name": "Swift",
           "number_of_years": 2
-        },
-        {
-          "name": "Java",
-          "number_of_years": 2
-        }
-      ]
-    },
-    {
-      "category": "Version Control",
-      "technologies": [
-        {
-          "name": "Git",
-          "number_of_years": 3
-        },
-	      {
-          "name": "Perforce",
-          "number_of_years": 2
-        }
-      ]
-    },
-    {
-      "category": "Operating System",
-      "technologies": [
-        {
-          "name": "Windows",
-          "number_of_years": 4
-        },
-        {
-          "name": "MacOS",
-          "number_of_years": 3
-        }
-      ]
-    },
-    
-    {
-      "category": "Integrated Development Environment",
-      "technologies": [
-        {
-          "name": "Eclipse",
-          "number_of_years": 2
-        },
-        {
-          "name": "XCode",
-          "number_of_years": 3
         }
       ]
     }
