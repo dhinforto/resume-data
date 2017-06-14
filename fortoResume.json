@@ -89,14 +89,6 @@
           "endDate": "2016 (3 months)",
           "technologies": "Android, Java"
         },
-	{
-          "name": "Multimedia Applications and Framework",
-          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
-          "role": "Android Developer/Debugger",
-          "startDate": "2013",
-          "endDate": "2015 (24 months)",
-          "technologies": "Android, Java, C, C++"
-        },
         {
           "name": "Voice Over LTE",
           "description": "Voice over LTE setup for AU and NZ TelCos (Telstra, Optus, Vodafone, Spark), pioneer engineer who works with different RnDs around the globe to improve the new technology",
@@ -104,6 +96,14 @@
           "startDate": "2014",
           "endDate": "2016 (18 months)",
           "technologies": "Android, Java, SIP, IMS, QXDM, WireShark"
+        },
+	       {
+          "name": "Multimedia Applications and Framework",
+          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
+          "role": "Android Developer/Debugger",
+          "startDate": "2013",
+          "endDate": "2015 (24 months)",
+          "technologies": "Android, Java, C, C++"
         }
       ]
     }
