@@ -49,25 +49,17 @@
           "endDate": "Present (10 months)",
           "technologies": "iOS, Swift"
         },
-	{
-          "name": "Multimedia Applications and Framework",
-          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
-          "role": "Android Developer/Debugger",
-          "startDate": "2013",
-          "endDate": "2015 (24 months)",
-          "technologies": "Android, Java, C, C++"
-        },
-        {
-          "name": "Voice Over LTE",
-          "description": "Voice over LTE setup for AU and NZ TelCos (Telstra, Optus, Vodafone, Spark), pioneer engineer who works with different RnDs around the globe to improve the new technology",
-          "role": "VoLTE Engineer",
-          "startDate": "2014",
-          "endDate": "2016 (12 months)",
-          "technologies": "Android, Java, SIP, IMS, QXDM, WireShark"
-        },
         {
           "name": "Samsung Cloud Printer (SCP)",
           "description": "SCP is a mobile application that allows its users to print anytime and anywhere as long as the printer is registered to the cloud. You can also share a printer to your contact list for them to use and send you a document if needed.",
+          "role": "iOS Developer",
+          "startDate": "2015",
+          "endDate": "2016 (12 months)",
+          "technologies": "iOS, Swift, REST"
+        },
+	{
+          "name": "Samsung Cloud Printer Business (SCPB)",
+          "description": "Samsung Cloud Print exclusive for private or company use.",
           "role": "iOS Developer",
           "startDate": "2015",
           "endDate": "2016 (12 months)",
@@ -96,6 +88,22 @@
           "startDate": "2015",
           "endDate": "2016 (3 months)",
           "technologies": "Android, Java"
+        },
+	{
+          "name": "Multimedia Applications and Framework",
+          "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
+          "role": "Android Developer/Debugger",
+          "startDate": "2013",
+          "endDate": "2015 (24 months)",
+          "technologies": "Android, Java, C, C++"
+        },
+        {
+          "name": "Voice Over LTE",
+          "description": "Voice over LTE setup for AU and NZ TelCos (Telstra, Optus, Vodafone, Spark), pioneer engineer who works with different RnDs around the globe to improve the new technology",
+          "role": "VoLTE Engineer",
+          "startDate": "2014",
+          "endDate": "2016 (18 months)",
+          "technologies": "Android, Java, SIP, IMS, QXDM, WireShark"
         }
       ]
     }
