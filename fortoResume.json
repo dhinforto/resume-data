@@ -38,7 +38,7 @@
           "description": "Wedding Spot mobile is an application that allows you to search, price, and compare wedding venues. Working directly with venues, Wedding Spot gathers all the information required to enable you to easily search for venues based on budget, location, style, and guest count.",
           "role": "iOS Developer",
           "startDate": "2016",
-          "endDate": "present",
+          "endDate": "Present (12 months)",
           "technologies": "iOS, Objective-C"
         },
         {
@@ -46,7 +46,7 @@
           "description": "Zukii application aims to help small-medium entrepreneurs  in starting their businesses as well as giving rewards to loyal customers who purchase and endorse existing shops and/or products through social networking sites. Moreover it is an e-commerce application that provides ensured delivery that puts the customer’s concerns as top priority.",
           "role": "iOS Developer",
           "startDate": "2016",
-          "endDate": "present",
+          "endDate": "Present (10 months)",
           "technologies": "iOS, Swift"
         },
 	{
@@ -54,7 +54,7 @@
           "description": "Handles multimedia module for all Samsung mobile devices, including Video Application, Music Player, Video/Audio Framework, Gallery and My Files",
           "role": "Android Developer/Debugger",
           "startDate": "2013",
-          "endDate": "2015",
+          "endDate": "2015 (24 months)",
           "technologies": "Android, Java, C, C++"
         },
         {
@@ -62,7 +62,7 @@
           "description": "Voice over LTE setup for AU and NZ TelCos (Telstra, Optus, Vodafone, Spark), pioneer engineer who works with different RnDs around the globe to improve the new technology",
           "role": "VoLTE Engineer",
           "startDate": "2014",
-          "endDate": "2016",
+          "endDate": "2016 (12 months)",
           "technologies": "Android, Java, SIP, IMS, QXDM, WireShark"
         },
         {
@@ -70,7 +70,7 @@
           "description": "SCP is a mobile application that allows its users to print anytime and anywhere as long as the printer is registered to the cloud. You can also share a printer to your contact list for them to use and send you a document if needed.",
           "role": "iOS Developer",
           "startDate": "2015",
-          "endDate": "2016",
+          "endDate": "2016 (12 months)",
           "technologies": "iOS, Swift, REST"
         },
         {
@@ -78,7 +78,7 @@
           "description": "MP is a mobile application that allows its users to print documents using printers connected to same network as the device. It also has the ability to perform scanning and an online ordering of ink depending on the printer you wish to use.",
           "role": "iOS Developer",
           "startDate": "2015",
-          "endDate": "2016",
+          "endDate": "2016 (12 months)",
           "technologies": "iOS, Swift, REST"
         },
         {
@@ -86,7 +86,7 @@
           "description": "SPDS is a diagnostic application for Samsung printers. It can also be used to control the printer remotely and test the hardware and its functionalities. Lastly, it can be used to generate a full report of the current state of the printer being tested.",
           "role": "iOS Developer",
           "startDate": "2015",
-          "endDate": "2016",
+          "endDate": "2016 (12 months)",
           "technologies": "iOS, Swift, REST"
         },
         {
@@ -94,7 +94,7 @@
           "description": "Filed local and international patent for Signal Processing with Operating State-Dependent Handling of Multimedia Attributes",
           "role": "Lead Innovator",
           "startDate": "2015",
-          "endDate": "2016",
+          "endDate": "2016 (3 months)",
           "technologies": "Android, Java"
         }
       ]
